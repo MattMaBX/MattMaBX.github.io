@@ -6,7 +6,6 @@ permalink: /publication/ma2024multi
 date: 2024-06-30
 venue: '2024 International Joint Conference on Neural Networks (IJCNN)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10651079'
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:0TQGl7NlrIEJ:scholar.google.com/&output=citation&scisdr=Cn2cHjwGEICCwbc4mUY:AHkA5jQAAAAAaXA-gUbvKIDxbLHI5rI51nbdo7M&scisig=AHkA5jQAAAAAaXA-gbN1JBFe0YRYIy-S3FO9hIc&scisf=4&ct=citation&cd=-1&hl=zh-CN'
 citation: 'Ma B, Wang C, Guo S, et al. Multi-Granularity Dual-Aware Contrastive Learning for Few-shot Named Entity Recognition[C]//2024 International Joint Conference on Neural Networks (IJCNN). IEEE, 2024: 1-8.'
 ---
 

@@ -6,7 +6,6 @@ permalink: /publication/liu2024improving
 date: 2024-06-30
 venue: '2024 International Joint Conference on Neural Networks (IJCNN)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10650647'
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:vBlk91eN3EIJ:scholar.google.com/&output=citation&scisdr=Cn2cHjwGEICCwbc40vQ:AHkA5jQAAAAAaXA-yvQHWQkvbT2O81RHsrj25Oc&scisig=AHkA5jQAAAAAaXA-ysbXN2sOMY-QX1FNIXFZTkY&scisf=4&ct=citation&cd=-1&hl=zh-CN'
 citation: 'Liu X, Guo S, Li J, Su X, Ma B, et al. Improving Implicit Discourse Relation Recognition via Connective Prediction and Dependency-weighted Label Hierarchy[C]//2024 International Joint Conference on Neural Networks (IJCNN). IEEE, 2024: 1-8.'
 ---
 

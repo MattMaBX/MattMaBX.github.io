@@ -6,7 +6,6 @@ permalink: /publication/li2024semantic
 date: 2024-12-31
 venue: 'Agriculture'
 paperurl: 'https://www.mdpi.com/2077-0472/15/1/74/pdf?version=1735635552'
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:wyXDXXALPh0J:scholar.google.com/&output=citation&scisdr=Cn2cHjwGEICCwbc5jns:AHkA5jQAAAAAaXA_lnspUbW-jyfyN56KxlIUki4&scisig=AHkA5jQAAAAAaXA_lj0bYL8xYnkVAwj9LqPk2L4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1'
 citation: 'Li S, Yan Z, Ma B, et al. Semantic Segmentation Method for High-Resolution Tomato Seedling Point Clouds Based on Sparse Convolution[J]. Agriculture, 2024, 15(1): 74.'
 ---
 

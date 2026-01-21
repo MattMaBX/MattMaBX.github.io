@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Boxiang Ma"
-description              : &description "Boxiang Ma's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Boxiang Ma's academic information"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mattmabx.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Boxiang Ma"
   pronouns         : # example: "she/her"
-  bio              : "Ph.D. Student in Computer Science and Technology at <a href='https://cs.sxu.edu.cn'> School of Computer and Information Technology</a>, <a href='https://www.sxu.edu.cn'>Shanxi University</a>"
+  bio              : "Ph.D. Student in Computer Science and Technology at School of Computer and Information Technology, Shanxi University."
   location         : "Taiyuan, Shanxi, China"
   employer         : "Shanxi University"
   uri              : # URL
