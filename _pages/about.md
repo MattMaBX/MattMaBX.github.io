@@ -12,4 +12,6 @@ I am currently a Ph.D. student in Computer Science and Technology at the School 
 My primary research interests include Natural Language Processing and Frame Semantics. I am currently focused on the knowledge memorization capabilities of Large Language Models, with particular emphasis on their ability to understand and model semantic scenarios.
 
 ## Selected Publications
-{% include collection.html collection="publications" filter="selected" %}
+{% for post in site.publications filter="selected" %}
+  {% include archive-single-talk.html %}
+{% endfor %}
