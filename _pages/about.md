@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+visible_for_sitemap: true
 ---
 
 I am currently a Ph.D. student in Computer Science and Technology at the School of Computer and Information Technology, Shanxi University, under the supervision of [Prof. Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601) and [Prof. Víctor Gutiérrez Basulto](https://scholar.google.com/citations?user=L2eFo5IAAAAJ).
@@ -20,5 +21,12 @@ My primary research interests include Natural Language Processing and Frame Sema
 {% assign selected_pubs = site.publications | where: "selected", true | sort: 'date' | reverse %}
 
 {% for post in selected_pubs %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## 💬 Talks
+{% assign talks = site.talks | sort: 'date' | reverse %}
+
+{% for post in talks %}
   {% include archive-single.html %}
 {% endfor %}
