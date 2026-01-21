@@ -9,3 +9,4 @@ venue: 'Proceedings of the 2025 Conference on Empirical Methods in Natural Langu
 paperurl: 'https://aclanthology.org/anthology-files/pdf/emnlp/2025.emnlp-main.1047.pdf'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:zHSwPY2SZF4J:scholar.google.com/&output=citation&scisdr=Cn2cHjwGEICCwbc8mkI:AHkA5jQAAAAAaXA6gkLBD0hUFLBJ-ZZiKhJClXY&scisig=AHkA5jQAAAAAaXA6gl_OhmTTwBT7I0_hW8TrM98&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1'
 citation: 'Ma B, Li R, Yuanlong W, et al. Memorization≠ Understanding: Do Large Language Models Have the Ability of Scenario Cognition?[C]//Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. 2025: 20758-20774.'
+---
